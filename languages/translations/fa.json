@@ -5,30 +5,30 @@
     "v5": {
         "constants": {
             "ordinalize": {
-                "1": "1st",
-                "2": "2nd",
-                "3": "3rd",
-                "4": "4th",
-                "5": "5th",
-                "6": "6th",
-                "7": "7th",
-                "8": "8th",
-                "9": "9th",
-                "10": "10th"
+                "1": "اولین",
+                "2": "دومین",
+                "3": "سومین",
+                "4": "چهارمین",
+                "5": "پنج‌مین",
+                "6": "ششمین",
+                "7": "هفتمین",
+                "8": "هشتمین",
+                "9": "نهمین",
+                "10": "ده‌مین"
             },
             "direction": {
-                "north": "north",
-                "northeast": "northeast",
-                "east": "east",
-                "southeast": "southeast",
-                "south": "south",
-                "southwest": "southwest",
-                "west": "west",
-                "northwest": "northwest"
+                "north": "شمال",
+                "northeast": "شمال شرقی",
+                "east": "شرق",
+                "southeast": "جنوب شرقی",
+                "south": "جنوب",
+                "southwest": "جنوب غربی",
+                "west": "غرب",
+                "northwest": "شمال غربی"
             },
             "modifier": {
-                "left": "left",
-                "right": "right",
+                "left": "چپ",
+                "right": "راست",
                 "sharp left": "sharp left",
                 "sharp right": "sharp right",
                 "slight left": "slight left",
